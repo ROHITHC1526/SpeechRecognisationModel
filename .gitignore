@@ -1,0 +1,42 @@
+# Node
+**/node_modules/
+
+# React
+**/dist/
+build/
+
+# Python
+venv/
+.venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Uploads
+backend/uploads/
+
+# ML files
+*.npy
+*.pkl
+*.joblib
+*.keras
+*.h5
+*.pth
+
+# Environment
+.env
+*.local
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
